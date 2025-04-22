@@ -1,5 +1,5 @@
 # dfs.py
-# main коммент
+# patch2 comment
 def dfs(edges, start, end):
     # Создаём множество всех вершин из рёбер
     vertices = set()
